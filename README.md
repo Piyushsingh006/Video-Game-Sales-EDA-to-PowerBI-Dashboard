@@ -20,6 +20,7 @@ This project analyzes global video game sales trends using Python (Pandas) and P
 - Nintendo and Electronic Arts were leading publishers.
 
 ## 🛠️ Tools Used
-- Python (Pandas, Matplotlib)
+- Python (Pandas,Numpy
+- )
 - Power BI
 - Jupyter Notebook
